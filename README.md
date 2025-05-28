@@ -26,7 +26,7 @@ Nombre: Dry Eye Disease
 - Samuel David Traslaviña Mateus (E1) - 2220085
 
 ## Video 
-[Video](link.com)
+[Video](https://youtu.be/GUqMVLCL9e4)
 
 ## Diapositivas
 [Ver archivo PDF](Slides_project.pdf)
