@@ -1,7 +1,7 @@
-![Sin título](https://github.com/user-attachments/assets/81c27071-c8a7-46f4-8586-7ea027d6de0a)
+![Banner](https://github.com/user-attachments/assets/81c27071-c8a7-46f4-8586-7ea027d6de0a)
 
 
-# DDetección de síndrome del ojo seco empleando atributos y variables medicas
+# Detección de síndrome del ojo seco empleando atributos y variables medicas
 
 Proyecto final de la asignatura inteligencia artificial I , 2025 - I 
 
@@ -21,11 +21,12 @@ Nombre: Dry Eye Disease
 - Multi-Layer Perceptron 
 
 ## Autores 
-- Jonk Keyler Sanchez Pabon (E2)
-- Greyler Jose Chacon Chaparro (E2)
-- Samuel David Traslaviña Mateus (E1)
+- Jonk Keyler Sanchez Pabon (E2) - 2221551
+- Greyler Jose Chacon Chaparro (E2) - 2215636
+- Samuel David Traslaviña Mateus (E1) - 2220085
 
 ## Video 
+[Video](link.com)
 
 ## Diapositivas
-
+[Ver archivo PDF](Slides_project.pdf)
